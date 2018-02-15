@@ -3,6 +3,14 @@ Changelog
 
 <table>
 <tr>
+<td>0.4.6</td>
+<td>
+    <ul>
+        <li>Check if structuredText for startLine is not undefined</li>
+    </ul>
+</td>
+</tr>
+<tr>
 <td>0.4.5</td>
 <td>
     <ul>
